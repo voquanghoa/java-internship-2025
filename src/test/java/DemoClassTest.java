@@ -16,6 +16,5 @@ class DemoClassTest {
     void max() {
         assertEquals(4, demoClass.max(2, 3,4));
         assertEquals(6, demoClass.max(6, 3,4));
-        assertEquals(9, demoClass.max(6, 3,4));
     }
 }
