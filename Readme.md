@@ -34,12 +34,11 @@ CODECOV_TOKEN=000070cd-c11f-49f0-a1ab-ac7ca9d0bf72
 
 ### Build status
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/voquanghoa/java-internship-2025/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/voquanghoa/java-internship-2025/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KimTien0410/java-internship-2025/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KimTien0410/java-internship-2025/tree/main)
 
 ### Codecov
 
-[![codecov](https://codecov.io/gh/voquanghoa/java-internship-2025/graph/badge.svg?token=RKKS73IELY)](https://codecov.io/gh/voquanghoa/java-internship-2025)
-
+[![codecov](https://codecov.io/github/KimTien0410/java-internship-2025/graph/badge.svg?token=1G43ZJ3E03)](https://codecov.io/github/KimTien0410/java-internship-2025)
 ## Exercise
 
 ### Basic
