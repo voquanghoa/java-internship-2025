@@ -8,7 +8,7 @@ class Exercise02Test {
 
     @Test
     void shouldSumDigits_OK() {
-        Exercise02 exercise02 = new Exercise02();
+        final Exercise02 exercise02 = new Exercise02();
         assertEquals(6, exercise02.sumDigits(123));
         assertEquals(15, exercise02.sumDigits(12345));
         assertEquals(0, exercise02.sumDigits(0));
