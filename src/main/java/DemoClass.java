@@ -9,7 +9,7 @@ public class DemoClass {
             return x;
         }
 
-        if (y >= x && y >= z) {
+        if (y >= z) {
             return y;
         }
 
